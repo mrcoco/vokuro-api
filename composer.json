@@ -1,0 +1,35 @@
+{
+  "name": "mrcoco/vokuro-api",
+  "version": "0.1.12",
+  "title": "Vokuro API",
+  "description": "Vokuro API - open source PHP API. build for vokuro-modular .",
+  "type": "library",
+  "keywords": [
+    "phalcon",
+    "modules",
+    "modular",
+    "api",
+    "rest"
+    "php"
+  ],
+  "homepage": "http://cempakaweb.com/",
+  "author": {
+    "name": "Dwi Agus Purwanto",
+    "url": "https://www.facebook.com/ghaouts"
+  },
+  "maintainers": [
+    {
+      "name": "Dwi Agus Purwanto",
+      "url": "https://www.facebook.com/ghaouts"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrcoco/vokuro-api"
+  },
+  "bugs": "https://github.com/mrcoco/vokuro-api/issues",
+  "license": "BSD-3",
+  "require": {
+    "composer/installers": "~1.0"
+  }  
+}
